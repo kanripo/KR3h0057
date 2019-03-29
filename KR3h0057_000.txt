@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 清河書畫表
-#+DATE: 2019-03-29 21:18:47.884013
+#+DATE: 2019-03-29 21:18:47.913084
 #+PROPERTY: ID KR3h0057
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 # image missing¶
 　　欽定四庫全書　　　　　子部八¶
